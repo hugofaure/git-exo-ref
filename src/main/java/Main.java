@@ -7,6 +7,8 @@ public class Main {
 		System.out.println(monMessage.getMessage1());
 		monMessage.setMessage1("coucou");
 		System.out.println(monMessage.getMessage1());
+		monMessage.setMessage1("plop");
+		System.out.println(monMessage.getMessage1());
 	}
 
 }
