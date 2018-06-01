@@ -12,9 +12,9 @@ public class MainTest {
 		ma_chaine_test = "test";
 	}
 	
-//	@Test
-//	public void testMain() {
-//		assertEquals(ma_chaine_test, monMessage.getMessage1());
-//	}
+	@Test
+	public void testMain() {
+		assertEquals(ma_chaine_test, monMessage.getMessage1());
+	}
 
 }
